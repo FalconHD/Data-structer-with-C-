@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1610209810 source:c:\users\falcon\desktop\devfolder\c\elections\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610416663 source:c:\users\falcon\desktop\devfolder\c\elections\elections\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610556143 source:c:\users\admi\downloads\compressed\electionsjan_12\elections\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610556143 source:c:\users\admi\desktop\electionsjan_12\elections\main.c
+	<stdio.h>
+	<stdlib.h>
+
